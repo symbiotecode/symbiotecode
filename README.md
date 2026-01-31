@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm SymbioteCode 👋
+### Front End Developer 
 
-<!--
-**symbiotecode/symbiotecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/github/followers/SymbioteCode?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/SymbioteCode?label=Total%20Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=SymbioteCode&color=blueviolet&style=flat-square" alt="visitor count" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey, I'm Symbiotecode, a Brand-new Frontend Developer!
+
+<p>
+  <a href="https://twitter.com/symbiotecode" target="_blank"><img src="https://img.shields.io/badge/TWITTER-symbiotecode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/symbiote_code" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-symbiote_code-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/symbiotecode" target="_blank"><img src="https://img.shields.io/badge/DISCORD-symbiotecode-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/symbiotecode " target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-symbiotecode -FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitch.com/symbiotecode" target="_blank"><img src="https://img.shields.io/badge/TWITCH-symbiotecode-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</p>
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+</p>
+
+### 📊 GitHub Activity
+<p><img src="https://github-profile-trophy.vercel.app/?username=SymbioteCode&theme=flat" alt="trophies" /></p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SymbioteCode&show_icons=true&theme=radical" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymbioteCode&layout=compact&theme=radical" alt="top langs card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SymbioteCode&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SymbioteCode&theme=radical" alt="wakatime stats" />
+</p>
+
