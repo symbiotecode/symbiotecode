@@ -23,20 +23,5 @@ Hey, I'm Symbiotecode, a Brand-new Frontend Developer!
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-</p>
-
-### 📊 GitHub Activity
-<p><img src="https://github-profile-trophy.vercel.app/?username=SymbioteCode&theme=flat" alt="trophies" /></p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SymbioteCode&show_icons=true&theme=radical" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymbioteCode&layout=compact&theme=radical" alt="top langs card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SymbioteCode&theme=radical" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SymbioteCode&theme=radical" alt="wakatime stats" />
 </p>
 
