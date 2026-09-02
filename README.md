@@ -1,5 +1,5 @@
-# Hi, I'm SymbioteCode 👋
-### Front End Developer 
+# Hi, I'm SymbioteCode
+### Front-End Developer 
 
 ***
 
